@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Scene</string>
+    <string name="search">Search</string>
+    <string name="search_movie_here">Type Movie Here</string>
+    <string name="movie_list">Movie List</string>
+    <string name="type_the_movie_name_and_click_search">Type The Movie Name and Click Search</string>
+    <string name="no_movie_found">No Movie Found. Redefine You Search Name and Try Again.</string>
+    <string name="enter_atleast_3_letters">Please enter atleast 3 letters</string>
+    <string name="released">Released</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="genre">Genre</string>
+    <string name="language">Language</string>
+    <string name="no_movie_data_found_for_this_title">No Movie Data Found For This Title. Please Try Again.</string>
+</resources>
